@@ -41,6 +41,8 @@ This project demonstrates a web application security simulation built in a contr
 - Vulnerabilities like SQLi and XSS can expose sensitive user data
 
 ---
+## Full Report
+[View Full Web Application Security Report](./Web_Application_Security_Report.pdf)
 
 ##  Security Insights & Mitigation
 - Use prepared statements to prevent SQL injection
